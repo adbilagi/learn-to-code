@@ -19,7 +19,7 @@ This repo is of Tech City youtube channel tutorials each branch is a episode
 8. <h1> <h2> <h3> <h4> <h5> <h6>
 9. <table>
 
-## attributes
+## Attributes
 1. id
 2. name
 3. class
