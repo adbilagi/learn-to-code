@@ -24,3 +24,9 @@ This repo is of Tech City youtube channel tutorials each branch is a episode
 2. name
 3. class
 
+## Part-3 :
+In this part you will learn basics of css
+and also small demo project using basic css
+
+
+
